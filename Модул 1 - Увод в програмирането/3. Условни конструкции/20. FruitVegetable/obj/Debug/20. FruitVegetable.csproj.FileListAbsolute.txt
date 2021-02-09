@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\bin\Debug\_20.FruitVegetable.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\bin\Debug\_20.FruitVegetable.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\bin\Debug\_20.FruitVegetable.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\obj\Debug\20. FruitVegetable.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\obj\Debug\20. FruitVegetable.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\obj\Debug\_20.FruitVegetable.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\20. FruitVegetable\obj\Debug\_20.FruitVegetable.pdb

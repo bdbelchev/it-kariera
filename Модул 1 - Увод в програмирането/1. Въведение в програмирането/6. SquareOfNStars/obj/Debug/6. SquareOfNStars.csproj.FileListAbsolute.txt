@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\bin\Debug\_6.SquareOfNStars.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\bin\Debug\_6.SquareOfNStars.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\bin\Debug\_6.SquareOfNStars.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\obj\Debug\6. SquareOfNStars.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\obj\Debug\6. SquareOfNStars.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\obj\Debug\_6.SquareOfNStars.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\1. Въведение в програмирането\6. SquareOfNStars\obj\Debug\_6.SquareOfNStars.pdb

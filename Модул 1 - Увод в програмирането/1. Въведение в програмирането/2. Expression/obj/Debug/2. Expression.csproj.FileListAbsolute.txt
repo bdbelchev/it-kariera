@@ -1,0 +1,6 @@
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\2. Expression\bin\Debug\_2.Expression.exe.config
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\2. Expression\bin\Debug\_2.Expression.exe
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\2. Expression\bin\Debug\_2.Expression.pdb
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\2. Expression\obj\Debug\2. Expression.csproj.CoreCompileInputs.cache
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\2. Expression\obj\Debug\_2.Expression.exe
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\2. Expression\obj\Debug\_2.Expression.pdb

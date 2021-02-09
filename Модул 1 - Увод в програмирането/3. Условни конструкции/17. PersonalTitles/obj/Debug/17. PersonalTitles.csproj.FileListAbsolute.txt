@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\obj\Debug\17. PersonalTitles.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\obj\Debug\17. PersonalTitles.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\bin\Debug\_17.PersonalTitles.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\bin\Debug\_17.PersonalTitles.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\bin\Debug\_17.PersonalTitles.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\obj\Debug\_17.PersonalTitles.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\17. PersonalTitles\obj\Debug\_17.PersonalTitles.pdb

@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\bin\Debug\_1.Excellent_Result.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\bin\Debug\_1.Excellent_Result.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\bin\Debug\_1.Excellent_Result.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\obj\Debug\1. Excellent_Result.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\obj\Debug\1. Excellent_Result.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\obj\Debug\_1.Excellent_Result.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\1. Excellent_Result\obj\Debug\_1.Excellent_Result.pdb

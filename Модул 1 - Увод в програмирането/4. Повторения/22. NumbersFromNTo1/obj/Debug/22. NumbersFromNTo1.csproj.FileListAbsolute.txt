@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\22. NumbersFromNTo1\bin\Debug\_22.NumbersFromNTo1.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\22. NumbersFromNTo1\bin\Debug\_22.NumbersFromNTo1.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\22. NumbersFromNTo1\bin\Debug\_22.NumbersFromNTo1.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\22. NumbersFromNTo1\obj\Debug\22. NumbersFromNTo1.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\22. NumbersFromNTo1\obj\Debug\_22.NumbersFromNTo1.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\22. NumbersFromNTo1\obj\Debug\_22.NumbersFromNTo1.pdb

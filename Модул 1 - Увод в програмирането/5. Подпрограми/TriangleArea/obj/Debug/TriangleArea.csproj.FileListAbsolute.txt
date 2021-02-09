@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\bin\Debug\TriangleArea.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\obj\Debug\TriangleArea.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\obj\Debug\TriangleArea.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\TriangleArea\obj\Debug\TriangleArea.pdb

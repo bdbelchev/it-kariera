@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\bin\Debug\_27.NOD.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\bin\Debug\_27.NOD.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\bin\Debug\_27.NOD.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\obj\Debug\27. NOD.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\obj\Debug\_27.NOD.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\obj\Debug\_27.NOD.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\27. NOD\obj\Debug\27. NOD.csprojAssemblyReference.cache

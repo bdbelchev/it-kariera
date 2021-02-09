@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\obj\Debug\9. NumberToWords.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\obj\Debug\9. NumberToWords.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\bin\Debug\_9.NumberToWords.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\bin\Debug\_9.NumberToWords.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\bin\Debug\_9.NumberToWords.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\obj\Debug\_9.NumberToWords.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\9. NumberToWords\obj\Debug\_9.NumberToWords.pdb

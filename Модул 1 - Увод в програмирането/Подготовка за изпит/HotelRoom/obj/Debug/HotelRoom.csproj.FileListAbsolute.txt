@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\bin\Debug\HotelRoom.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\bin\Debug\HotelRoom.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\bin\Debug\HotelRoom.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\obj\Debug\HotelRoom.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\obj\Debug\HotelRoom.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\HotelRoom\obj\Debug\HotelRoom.pdb

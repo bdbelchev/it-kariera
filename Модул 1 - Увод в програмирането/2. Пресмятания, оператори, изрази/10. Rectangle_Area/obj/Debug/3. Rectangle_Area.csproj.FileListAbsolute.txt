@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\bin\Debug\_3.Rectangle_Area.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\bin\Debug\_3.Rectangle_Area.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\bin\Debug\_3.Rectangle_Area.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\obj\Debug\3. Rectangle_Area.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\obj\Debug\_3.Rectangle_Area.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\obj\Debug\_3.Rectangle_Area.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\3. Rectangle_Area\obj\Debug\3. Rectangle_Area.csprojAssemblyReference.cache

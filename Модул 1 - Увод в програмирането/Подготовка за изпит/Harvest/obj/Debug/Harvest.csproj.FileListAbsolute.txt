@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Harvest\bin\Debug\Harvest.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Harvest\bin\Debug\Harvest.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Harvest\bin\Debug\Harvest.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Harvest\obj\Debug\Harvest.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Harvest\obj\Debug\Harvest.pdb

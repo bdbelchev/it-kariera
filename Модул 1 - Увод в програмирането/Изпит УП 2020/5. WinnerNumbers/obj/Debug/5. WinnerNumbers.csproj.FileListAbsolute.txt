@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\bin\Debug\_5.WinnerNumbers.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\bin\Debug\_5.WinnerNumbers.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\bin\Debug\_5.WinnerNumbers.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\obj\Debug\5. WinnerNumbers.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\obj\Debug\_5.WinnerNumbers.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\obj\Debug\_5.WinnerNumbers.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\5. WinnerNumbers\obj\Debug\5. WinnerNumbers.csprojAssemblyReference.cache

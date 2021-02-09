@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\bin\Debug\RepairingTheTiles.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\bin\Debug\RepairingTheTiles.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\bin\Debug\RepairingTheTiles.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\obj\Debug\RepairingTheTiles.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\obj\Debug\RepairingTheTiles.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\obj\Debug\RepairingTheTiles.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\RepairingTheTiles\obj\Debug\RepairingTheTiles.pdb

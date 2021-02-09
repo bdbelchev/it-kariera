@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\bin\Debug\PrintTriangle.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\bin\Debug\PrintTriangle.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\obj\Debug\PrintTriangle.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\obj\Debug\PrintTriangle.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\obj\Debug\PrintTriangle.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\PrintTriangle\obj\Debug\PrintTriangle.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\bin\Debug\_16.DiamondOfStars.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\bin\Debug\_16.DiamondOfStars.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\bin\Debug\_16.DiamondOfStars.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\obj\Debug\16. DiamondOfStars.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\obj\Debug\_16.DiamondOfStars.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\obj\Debug\_16.DiamondOfStars.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\16. DiamondOfStars\obj\Debug\16. DiamondOfStars.csprojAssemblyReference.cache

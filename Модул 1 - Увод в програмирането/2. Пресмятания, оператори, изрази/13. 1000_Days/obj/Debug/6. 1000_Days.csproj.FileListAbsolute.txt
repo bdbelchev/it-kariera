@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\6. 1000_Days\bin\Debug\6. 1000_Days.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\6. 1000_Days\bin\Debug\6. 1000_Days.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\6. 1000_Days\bin\Debug\6. 1000_Days.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\6. 1000_Days\obj\Debug\6. 1000_Days.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\6. 1000_Days\obj\Debug\6. 1000_Days.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\6. 1000_Days\obj\Debug\6. 1000_Days.pdb

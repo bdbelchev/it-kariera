@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\2. Excellent_Or_Not\bin\Debug\_2.Excellent_Or_Not.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\2. Excellent_Or_Not\bin\Debug\_2.Excellent_Or_Not.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\2. Excellent_Or_Not\bin\Debug\_2.Excellent_Or_Not.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\2. Excellent_Or_Not\obj\Debug\2. Excellent_Or_Not.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\2. Excellent_Or_Not\obj\Debug\_2.Excellent_Or_Not.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\2. Excellent_Or_Not\obj\Debug\_2.Excellent_Or_Not.pdb

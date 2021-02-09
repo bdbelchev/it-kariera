@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Profit\bin\Debug\Profit.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Profit\bin\Debug\Profit.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Profit\bin\Debug\Profit.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Profit\obj\Debug\Profit.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Profit\obj\Debug\Profit.pdb

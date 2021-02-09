@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\bin\Debug\_1.FruitShop.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\bin\Debug\_1.FruitShop.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\bin\Debug\_1.FruitShop.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\obj\Debug\1. FruitShop.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\obj\Debug\1. FruitShop.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\obj\Debug\_1.FruitShop.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\1. FruitShop\obj\Debug\_1.FruitShop.pdb

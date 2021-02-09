@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\5. MaxNumber\bin\Debug\_5.MaxNumber.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\5. MaxNumber\bin\Debug\_5.MaxNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\5. MaxNumber\bin\Debug\_5.MaxNumber.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\5. MaxNumber\obj\Debug\5. MaxNumber.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\5. MaxNumber\obj\Debug\_5.MaxNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\5. MaxNumber\obj\Debug\_5.MaxNumber.pdb

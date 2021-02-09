@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\14. SpeedInfo\bin\Debug\_14.SpeedInfo.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\14. SpeedInfo\bin\Debug\_14.SpeedInfo.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\14. SpeedInfo\bin\Debug\_14.SpeedInfo.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\14. SpeedInfo\obj\Debug\14. SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\14. SpeedInfo\obj\Debug\_14.SpeedInfo.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\14. SpeedInfo\obj\Debug\_14.SpeedInfo.pdb

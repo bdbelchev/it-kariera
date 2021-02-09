@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\3. LatinLetters\bin\Debug\_3.LatinLetters.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\3. LatinLetters\bin\Debug\_3.LatinLetters.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\3. LatinLetters\bin\Debug\_3.LatinLetters.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\3. LatinLetters\obj\Debug\3. LatinLetters.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\3. LatinLetters\obj\Debug\_3.LatinLetters.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\3. LatinLetters\obj\Debug\_3.LatinLetters.pdb

@@ -1,0 +1,13 @@
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\4. TriangleOf55Stars\bin\Debug\_4.TriangleOf55Stars.exe.config
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\4. TriangleOf55Stars\bin\Debug\_4.TriangleOf55Stars.exe
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\4. TriangleOf55Stars\bin\Debug\_4.TriangleOf55Stars.pdb
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\4. TriangleOf55Stars\obj\Debug\4. TriangleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\4. TriangleOf55Stars\obj\Debug\_4.TriangleOf55Stars.exe
+C:\Users\bdbel\source\repos\itkariera\First-demo-solution\4. TriangleOf55Stars\obj\Debug\_4.TriangleOf55Stars.pdb
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\bin\Debug\_4.TriangleOf55Stars.exe.config
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\bin\Debug\_4.TriangleOf55Stars.exe
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\bin\Debug\_4.TriangleOf55Stars.pdb
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\obj\Debug\4. TriangleOf55Stars.csprojAssemblyReference.cache
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\obj\Debug\4. TriangleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\obj\Debug\_4.TriangleOf55Stars.exe
+C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\4. TriangleOf55Stars\obj\Debug\_4.TriangleOf55Stars.pdb

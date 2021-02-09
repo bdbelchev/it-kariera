@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\29. SumDigitsOfNumber\bin\Debug\_29.SumDigitsOfNumber.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\29. SumDigitsOfNumber\bin\Debug\_29.SumDigitsOfNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\29. SumDigitsOfNumber\bin\Debug\_29.SumDigitsOfNumber.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\29. SumDigitsOfNumber\obj\Debug\29. SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\29. SumDigitsOfNumber\obj\Debug\_29.SumDigitsOfNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\29. SumDigitsOfNumber\obj\Debug\_29.SumDigitsOfNumber.pdb

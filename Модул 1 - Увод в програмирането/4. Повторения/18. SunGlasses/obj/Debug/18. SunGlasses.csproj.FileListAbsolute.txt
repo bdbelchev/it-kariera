@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\18. SunGlasses\bin\Debug\_18.SunGlasses.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\18. SunGlasses\bin\Debug\_18.SunGlasses.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\18. SunGlasses\bin\Debug\_18.SunGlasses.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\18. SunGlasses\obj\Debug\18. SunGlasses.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\18. SunGlasses\obj\Debug\_18.SunGlasses.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\18. SunGlasses\obj\Debug\_18.SunGlasses.pdb

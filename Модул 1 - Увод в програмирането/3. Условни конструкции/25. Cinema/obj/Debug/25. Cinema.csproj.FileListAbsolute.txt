@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\25. Cinema\bin\Debug\_25.Cinema.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\25. Cinema\bin\Debug\_25.Cinema.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\25. Cinema\bin\Debug\_25.Cinema.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\25. Cinema\obj\Debug\25. Cinema.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\25. Cinema\obj\Debug\_25.Cinema.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\25. Cinema\obj\Debug\_25.Cinema.pdb

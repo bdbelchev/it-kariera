@@ -1,0 +1,14 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\bin\Debug\_30.PrimeNumber.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\bin\Debug\_30.PrimeNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\bin\Debug\_30.PrimeNumber.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\obj\Debug\30. PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\obj\Debug\_30.PrimeNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\obj\Debug\_30.PrimeNumber.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\30. PrimeNumber\obj\Debug\30. PrimeNumber.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\bin\Debug\_30.PrimeNumber.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\bin\Debug\_30.PrimeNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\bin\Debug\_30.PrimeNumber.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\obj\Debug\30. PrimeNumber.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\obj\Debug\30. PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\obj\Debug\_30.PrimeNumber.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\4. Повторения\30. PrimeNumber\obj\Debug\_30.PrimeNumber.pdb

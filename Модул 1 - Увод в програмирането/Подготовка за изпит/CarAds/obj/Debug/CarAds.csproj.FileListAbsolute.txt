@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarAds\bin\Debug\CarAds.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarAds\bin\Debug\CarAds.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarAds\bin\Debug\CarAds.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarAds\obj\Debug\CarAds.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarAds\obj\Debug\CarAds.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarAds\obj\Debug\CarAds.pdb

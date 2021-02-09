@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\bin\Debug\_9.EqualCouples.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\bin\Debug\_9.EqualCouples.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\bin\Debug\_9.EqualCouples.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\obj\Debug\9. EqualCouples.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\obj\Debug\9. EqualCouples.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\obj\Debug\_9.EqualCouples.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\9. EqualCouples\obj\Debug\_9.EqualCouples.pdb

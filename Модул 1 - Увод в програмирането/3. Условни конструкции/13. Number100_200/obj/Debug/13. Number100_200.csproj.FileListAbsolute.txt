@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\bin\Debug\_13.Number100_200.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\bin\Debug\_13.Number100_200.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\bin\Debug\_13.Number100_200.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\obj\Debug\13. Number100_200.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\obj\Debug\13. Number100_200.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\obj\Debug\_13.Number100_200.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\13. Number100_200\obj\Debug\_13.Number100_200.pdb

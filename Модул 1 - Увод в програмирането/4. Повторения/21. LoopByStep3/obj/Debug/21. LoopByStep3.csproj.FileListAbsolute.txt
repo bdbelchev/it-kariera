@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\21. LoopByStep3\bin\Debug\_21.LoopByStep3.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\21. LoopByStep3\bin\Debug\_21.LoopByStep3.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\21. LoopByStep3\bin\Debug\_21.LoopByStep3.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\21. LoopByStep3\obj\Debug\21. LoopByStep3.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\21. LoopByStep3\obj\Debug\_21.LoopByStep3.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\21. LoopByStep3\obj\Debug\_21.LoopByStep3.pdb

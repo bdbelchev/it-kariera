@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\bin\Debug\_2.NumbersEnding7.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\bin\Debug\_2.NumbersEnding7.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\bin\Debug\_2.NumbersEnding7.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\obj\Debug\2. NumbersEnding7.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\obj\Debug\2. NumbersEnding7.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\obj\Debug\_2.NumbersEnding7.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\2. NumbersEnding7\obj\Debug\_2.NumbersEnding7.pdb

@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\7. LeftRightSum\bin\Debug\_7.LeftRightSum.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\7. LeftRightSum\bin\Debug\_7.LeftRightSum.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\7. LeftRightSum\bin\Debug\_7.LeftRightSum.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\7. LeftRightSum\obj\Debug\7. LeftRightSum.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\7. LeftRightSum\obj\Debug\_7.LeftRightSum.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\7. LeftRightSum\obj\Debug\_7.LeftRightSum.pdb

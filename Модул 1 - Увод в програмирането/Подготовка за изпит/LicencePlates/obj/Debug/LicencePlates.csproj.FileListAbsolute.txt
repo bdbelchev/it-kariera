@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\LicencePlates\bin\Debug\LicencePlates.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\LicencePlates\bin\Debug\LicencePlates.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\LicencePlates\bin\Debug\LicencePlates.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\LicencePlates\obj\Debug\LicencePlates.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\LicencePlates\obj\Debug\LicencePlates.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\LicencePlates\obj\Debug\LicencePlates.pdb

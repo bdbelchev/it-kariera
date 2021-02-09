@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\14. TriangleOfDollar\bin\Debug\_14.TriangleOfDollar.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\14. TriangleOfDollar\bin\Debug\_14.TriangleOfDollar.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\14. TriangleOfDollar\bin\Debug\_14.TriangleOfDollar.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\14. TriangleOfDollar\obj\Debug\14. TriangleOfDollar.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\14. TriangleOfDollar\obj\Debug\_14.TriangleOfDollar.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\14. TriangleOfDollar\obj\Debug\_14.TriangleOfDollar.pdb

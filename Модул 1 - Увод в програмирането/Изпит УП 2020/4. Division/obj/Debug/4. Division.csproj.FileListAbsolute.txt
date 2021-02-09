@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\4. Division\bin\Debug\_4.Division.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\4. Division\bin\Debug\_4.Division.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\4. Division\bin\Debug\_4.Division.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\4. Division\obj\Debug\4. Division.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\4. Division\obj\Debug\_4.Division.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Изпит УП 2020\4. Division\obj\Debug\_4.Division.pdb

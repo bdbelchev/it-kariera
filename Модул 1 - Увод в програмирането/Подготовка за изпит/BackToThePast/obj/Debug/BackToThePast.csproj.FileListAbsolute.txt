@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\bin\Debug\BackToThePast.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\bin\Debug\BackToThePast.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\bin\Debug\BackToThePast.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\obj\Debug\BackToThePast.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\obj\Debug\BackToThePast.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\obj\Debug\BackToThePast.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\BackToThePast\obj\Debug\BackToThePast.pdb

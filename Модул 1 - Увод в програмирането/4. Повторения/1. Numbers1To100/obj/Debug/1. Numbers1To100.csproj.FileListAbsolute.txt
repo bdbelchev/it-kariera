@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\bin\Debug\_1.Numbers1To100.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\bin\Debug\_1.Numbers1To100.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\bin\Debug\_1.Numbers1To100.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\obj\Debug\1. Numbers1To100.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\obj\Debug\1. Numbers1To100.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\obj\Debug\_1.Numbers1To100.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\1. Numbers1To100\obj\Debug\_1.Numbers1To100.pdb

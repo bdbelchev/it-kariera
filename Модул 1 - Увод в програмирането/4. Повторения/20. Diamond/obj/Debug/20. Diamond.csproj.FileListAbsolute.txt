@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\bin\Debug\_20.Diamond.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\bin\Debug\_20.Diamond.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\bin\Debug\_20.Diamond.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\obj\Debug\20. Diamond.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\obj\Debug\_20.Diamond.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\obj\Debug\_20.Diamond.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\20. Diamond\obj\Debug\20. Diamond.csprojAssemblyReference.cache

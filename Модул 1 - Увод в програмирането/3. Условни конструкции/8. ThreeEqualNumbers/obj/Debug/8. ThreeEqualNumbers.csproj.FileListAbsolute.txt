@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\bin\Debug\_8.ThreeEqualNumbers.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\bin\Debug\_8.ThreeEqualNumbers.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\bin\Debug\_8.ThreeEqualNumbers.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\obj\Debug\8. ThreeEqualNumbers.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\obj\Debug\8. ThreeEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\obj\Debug\_8.ThreeEqualNumbers.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\8. ThreeEqualNumbers\obj\Debug\_8.ThreeEqualNumbers.pdb

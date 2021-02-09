@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\bin\Debug\EvenOddSumMultiplication.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\bin\Debug\EvenOddSumMultiplication.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\bin\Debug\EvenOddSumMultiplication.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\obj\Debug\EvenOddSumMultiplication.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\obj\Debug\EvenOddSumMultiplication.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\obj\Debug\EvenOddSumMultiplication.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\EvenOddSumMultiplication\obj\Debug\EvenOddSumMultiplication.pdb

@@ -1,0 +1,6 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\1. SquareArea\bin\Debug\_1.SquareArea.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\1. SquareArea\bin\Debug\_1.SquareArea.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\1. SquareArea\bin\Debug\_1.SquareArea.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\1. SquareArea\obj\Debug\1. SquareArea.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\1. SquareArea\obj\Debug\_1.SquareArea.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\1. SquareArea\obj\Debug\_1.SquareArea.pdb

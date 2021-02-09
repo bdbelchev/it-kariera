@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\bin\Debug\_7.Convert_USD_BGN.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\bin\Debug\_7.Convert_USD_BGN.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\bin\Debug\_7.Convert_USD_BGN.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\obj\Debug\7. Convert_USD_BGN.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\obj\Debug\_7.Convert_USD_BGN.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\obj\Debug\_7.Convert_USD_BGN.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\7. Convert_USD_BGN\obj\Debug\7. Convert_USD_BGN.csprojAssemblyReference.cache

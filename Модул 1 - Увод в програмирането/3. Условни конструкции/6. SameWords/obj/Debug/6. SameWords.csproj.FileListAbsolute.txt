@@ -1,0 +1,7 @@
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\bin\Debug\_6.SameWords.exe.config
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\bin\Debug\_6.SameWords.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\bin\Debug\_6.SameWords.pdb
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\obj\Debug\6. SameWords.csprojAssemblyReference.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\obj\Debug\6. SameWords.csproj.CoreCompileInputs.cache
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\obj\Debug\_6.SameWords.exe
+D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\6. SameWords\obj\Debug\_6.SameWords.pdb
