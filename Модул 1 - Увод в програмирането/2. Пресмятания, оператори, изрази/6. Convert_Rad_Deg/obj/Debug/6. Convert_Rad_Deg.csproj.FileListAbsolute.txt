@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\6. Convert_Rad_Deg\bin\Debug\_6.Convert_Rad_Deg.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\6. Convert_Rad_Deg\bin\Debug\_6.Convert_Rad_Deg.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\6. Convert_Rad_Deg\bin\Debug\_6.Convert_Rad_Deg.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\6. Convert_Rad_Deg\obj\Debug\6. Convert_Rad_Deg.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\6. Convert_Rad_Deg\obj\Debug\_6.Convert_Rad_Deg.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\6. Convert_Rad_Deg\obj\Debug\_6.Convert_Rad_Deg.pdb

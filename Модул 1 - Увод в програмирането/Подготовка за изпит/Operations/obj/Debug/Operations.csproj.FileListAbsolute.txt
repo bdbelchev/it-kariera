@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Operations\bin\Debug\Operations.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Operations\bin\Debug\Operations.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Operations\bin\Debug\Operations.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Operations\obj\Debug\Operations.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Operations\obj\Debug\Operations.pdb

@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\3. Odd_Or_Even\bin\Debug\_3.Odd_Or_Even.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\3. Odd_Or_Even\bin\Debug\_3.Odd_Or_Even.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\3. Odd_Or_Even\bin\Debug\_3.Odd_Or_Even.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\3. Odd_Or_Even\obj\Debug\3. Odd_Or_Even.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\3. Odd_Or_Even\obj\Debug\_3.Odd_Or_Even.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\3. Odd_Or_Even\obj\Debug\_3.Odd_Or_Even.pdb

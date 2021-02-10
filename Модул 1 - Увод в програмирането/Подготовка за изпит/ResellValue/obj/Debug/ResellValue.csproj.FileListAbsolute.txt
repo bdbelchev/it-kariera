@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\bin\Debug\ResellValue.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\bin\Debug\ResellValue.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\bin\Debug\ResellValue.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\obj\Debug\ResellValue.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\obj\Debug\ResellValue.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\obj\Debug\ResellValue.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\ResellValue\obj\Debug\ResellValue.pdb

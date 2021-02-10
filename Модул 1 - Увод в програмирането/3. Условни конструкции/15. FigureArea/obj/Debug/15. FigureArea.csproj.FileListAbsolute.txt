@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\15. FigureArea\bin\Debug\_15.FigureArea.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\15. FigureArea\bin\Debug\_15.FigureArea.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\15. FigureArea\bin\Debug\_15.FigureArea.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\15. FigureArea\obj\Debug\15. FigureArea.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\15. FigureArea\obj\Debug\_15.FigureArea.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\15. FigureArea\obj\Debug\_15.FigureArea.pdb

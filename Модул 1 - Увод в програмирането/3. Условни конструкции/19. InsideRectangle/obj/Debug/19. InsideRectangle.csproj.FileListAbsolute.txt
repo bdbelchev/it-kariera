@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\19. InsideRectangle\bin\Debug\_19.InsideRectangle.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\19. InsideRectangle\bin\Debug\_19.InsideRectangle.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\19. InsideRectangle\bin\Debug\_19.InsideRectangle.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\19. InsideRectangle\obj\Debug\19. InsideRectangle.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\19. InsideRectangle\obj\Debug\_19.InsideRectangle.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\19. InsideRectangle\obj\Debug\_19.InsideRectangle.pdb

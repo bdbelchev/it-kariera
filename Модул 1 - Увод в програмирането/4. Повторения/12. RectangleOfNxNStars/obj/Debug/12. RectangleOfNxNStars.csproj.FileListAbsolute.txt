@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\bin\Debug\_12.RectangleOfNxNStars.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\bin\Debug\_12.RectangleOfNxNStars.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\bin\Debug\_12.RectangleOfNxNStars.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\obj\Debug\12. RectangleOfNxNStars.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\obj\Debug\12. RectangleOfNxNStars.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\obj\Debug\_12.RectangleOfNxNStars.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\12. RectangleOfNxNStars\obj\Debug\_12.RectangleOfNxNStars.pdb

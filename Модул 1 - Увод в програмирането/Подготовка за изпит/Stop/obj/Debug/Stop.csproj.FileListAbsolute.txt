@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\bin\Debug\Stop.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\bin\Debug\Stop.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\bin\Debug\Stop.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\obj\Debug\Stop.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\obj\Debug\Stop.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\obj\Debug\Stop.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Stop\obj\Debug\Stop.pdb

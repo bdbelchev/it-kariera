@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\bin\Debug\StopNumber.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\bin\Debug\StopNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\bin\Debug\StopNumber.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\obj\Debug\StopNumber.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\obj\Debug\StopNumber.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\obj\Debug\StopNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\StopNumber\obj\Debug\StopNumber.pdb

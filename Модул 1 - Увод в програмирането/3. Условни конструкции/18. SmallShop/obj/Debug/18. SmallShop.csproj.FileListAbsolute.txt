@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\18. SmallShop\bin\Debug\_18.SmallShop.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\18. SmallShop\bin\Debug\_18.SmallShop.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\18. SmallShop\bin\Debug\_18.SmallShop.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\18. SmallShop\obj\Debug\18. SmallShop.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\18. SmallShop\obj\Debug\_18.SmallShop.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\18. SmallShop\obj\Debug\_18.SmallShop.pdb

@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\bin\Debug\TransportPrice.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\bin\Debug\TransportPrice.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\bin\Debug\TransportPrice.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\obj\Debug\TransportPrice.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\obj\Debug\TransportPrice.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\obj\Debug\TransportPrice.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\TransportPrice\obj\Debug\TransportPrice.pdb

@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SeasonSale\bin\Debug\SeasonSale.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SeasonSale\bin\Debug\SeasonSale.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SeasonSale\bin\Debug\SeasonSale.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SeasonSale\obj\Debug\SeasonSale.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SeasonSale\obj\Debug\SeasonSale.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SeasonSale\obj\Debug\SeasonSale.pdb

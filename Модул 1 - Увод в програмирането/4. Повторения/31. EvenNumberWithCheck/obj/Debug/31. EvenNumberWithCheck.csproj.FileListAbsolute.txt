@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\31. EvenNumberWithCheck\bin\Debug\_31.EvenNumberWithCheck.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\31. EvenNumberWithCheck\bin\Debug\_31.EvenNumberWithCheck.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\31. EvenNumberWithCheck\bin\Debug\_31.EvenNumberWithCheck.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\31. EvenNumberWithCheck\obj\Debug\31. EvenNumberWithCheck.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\31. EvenNumberWithCheck\obj\Debug\_31.EvenNumberWithCheck.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\31. EvenNumberWithCheck\obj\Debug\_31.EvenNumberWithCheck.pdb

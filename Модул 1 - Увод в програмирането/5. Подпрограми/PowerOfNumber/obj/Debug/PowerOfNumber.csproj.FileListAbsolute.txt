@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\PowerOfNumber\bin\Debug\PowerOfNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\PowerOfNumber\obj\Debug\PowerOfNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\PowerOfNumber\obj\Debug\PowerOfNumber.pdb

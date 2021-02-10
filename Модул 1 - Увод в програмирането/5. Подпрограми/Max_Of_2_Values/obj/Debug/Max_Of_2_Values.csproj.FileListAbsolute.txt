@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\bin\Debug\Max_Of_2_Values.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\bin\Debug\Max_Of_2_Values.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\bin\Debug\Max_Of_2_Values.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Увод в програмирането\(Самост.) 5. Подпрограми\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.pdb

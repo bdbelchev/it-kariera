@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\bin\Debug\_28.Factoriel.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\bin\Debug\_28.Factoriel.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\bin\Debug\_28.Factoriel.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\obj\Debug\28. Factoriel.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\obj\Debug\_28.Factoriel.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\obj\Debug\_28.Factoriel.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\28. Factoriel\obj\Debug\28. Factoriel.csprojAssemblyReference.cache

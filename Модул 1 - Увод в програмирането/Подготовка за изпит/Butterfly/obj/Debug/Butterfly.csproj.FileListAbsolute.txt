@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\bin\Debug\Butterfly.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\bin\Debug\Butterfly.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\bin\Debug\Butterfly.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\obj\Debug\Butterfly.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\obj\Debug\Butterfly.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Butterfly\obj\Debug\Butterfly.pdb

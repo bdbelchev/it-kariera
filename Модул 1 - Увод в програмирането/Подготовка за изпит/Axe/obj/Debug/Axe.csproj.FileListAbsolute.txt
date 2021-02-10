@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\bin\Debug\Axe.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\bin\Debug\Axe.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\bin\Debug\Axe.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\obj\Debug\Axe.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\obj\Debug\Axe.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Axe\obj\Debug\Axe.pdb

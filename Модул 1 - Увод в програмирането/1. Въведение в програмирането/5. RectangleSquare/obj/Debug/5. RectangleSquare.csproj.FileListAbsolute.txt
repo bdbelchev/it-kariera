@@ -1,7 +1,0 @@
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\bin\Debug\_5.RectangleSquare.exe.config
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\bin\Debug\_5.RectangleSquare.exe
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\bin\Debug\_5.RectangleSquare.pdb
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\obj\Debug\5. RectangleSquare.csprojAssemblyReference.cache
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\obj\Debug\5. RectangleSquare.csproj.CoreCompileInputs.cache
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\obj\Debug\_5.RectangleSquare.exe
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\5. RectangleSquare\obj\Debug\_5.RectangleSquare.pdb

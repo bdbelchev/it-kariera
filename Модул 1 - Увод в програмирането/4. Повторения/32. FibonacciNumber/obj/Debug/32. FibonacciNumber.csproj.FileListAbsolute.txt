@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\32. FibonacciNumber\bin\Debug\_32.FibonacciNumber.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\32. FibonacciNumber\bin\Debug\_32.FibonacciNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\32. FibonacciNumber\bin\Debug\_32.FibonacciNumber.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\32. FibonacciNumber\obj\Debug\32. FibonacciNumber.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\32. FibonacciNumber\obj\Debug\_32.FibonacciNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\32. FibonacciNumber\obj\Debug\_32.FibonacciNumber.pdb

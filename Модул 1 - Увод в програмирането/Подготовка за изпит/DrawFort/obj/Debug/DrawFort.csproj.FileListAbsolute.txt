@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\bin\Debug\DrawFort.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\bin\Debug\DrawFort.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\bin\Debug\DrawFort.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\obj\Debug\DrawFort.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\obj\Debug\DrawFort.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\obj\Debug\DrawFort.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\DrawFort\obj\Debug\DrawFort.pdb

@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\15. SquareFrame\bin\Debug\_15.SquareFrame.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\15. SquareFrame\bin\Debug\_15.SquareFrame.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\15. SquareFrame\bin\Debug\_15.SquareFrame.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\15. SquareFrame\obj\Debug\15. SquareFrame.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\15. SquareFrame\obj\Debug\_15.SquareFrame.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\15. SquareFrame\obj\Debug\_15.SquareFrame.pdb

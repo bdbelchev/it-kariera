@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\6. MinNumber\bin\Debug\_6.MinNumber.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\6. MinNumber\bin\Debug\_6.MinNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\6. MinNumber\bin\Debug\_6.MinNumber.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\6. MinNumber\obj\Debug\6. MinNumber.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\6. MinNumber\obj\Debug\_6.MinNumber.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\6. MinNumber\obj\Debug\_6.MinNumber.pdb

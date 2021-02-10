@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\bin\Debug\_11.RectangleOf10X10Stars.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\bin\Debug\_11.RectangleOf10X10Stars.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\bin\Debug\_11.RectangleOf10X10Stars.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\obj\Debug\11. RectangleOf10X10Stars.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\obj\Debug\11. RectangleOf10X10Stars.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\obj\Debug\_11.RectangleOf10X10Stars.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\11. RectangleOf10X10Stars\obj\Debug\_11.RectangleOf10X10Stars.pdb

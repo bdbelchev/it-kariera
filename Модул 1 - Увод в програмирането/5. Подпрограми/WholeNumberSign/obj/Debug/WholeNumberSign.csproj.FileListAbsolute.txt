@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\WholeNumberSign\bin\Debug\WholeNumberSign.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\WholeNumberSign\bin\Debug\WholeNumberSign.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\WholeNumberSign\bin\Debug\WholeNumberSign.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\WholeNumberSign\obj\Debug\WholeNumberSign.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\WholeNumberSign\obj\Debug\WholeNumberSign.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\(Самост.) 5. Подпрограми\WholeNumberSign\obj\Debug\WholeNumberSign.pdb

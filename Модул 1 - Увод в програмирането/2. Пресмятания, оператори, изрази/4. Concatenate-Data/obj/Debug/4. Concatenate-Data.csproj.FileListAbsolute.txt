@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\4. Concatenate-Data\bin\Debug\_4.Concatenate_Data.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\4. Concatenate-Data\bin\Debug\_4.Concatenate_Data.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\4. Concatenate-Data\bin\Debug\_4.Concatenate_Data.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\4. Concatenate-Data\obj\Debug\4. Concatenate-Data.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\4. Concatenate-Data\obj\Debug\_4.Concatenate_Data.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\4. Concatenate-Data\obj\Debug\_4.Concatenate_Data.pdb

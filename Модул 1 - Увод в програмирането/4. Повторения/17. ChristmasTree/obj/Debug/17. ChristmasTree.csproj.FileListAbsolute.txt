@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\17. ChristmasTree\bin\Debug\_17.ChristmasTree.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\17. ChristmasTree\bin\Debug\_17.ChristmasTree.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\17. ChristmasTree\bin\Debug\_17.ChristmasTree.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\17. ChristmasTree\obj\Debug\17. ChristmasTree.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\17. ChristmasTree\obj\Debug\_17.ChristmasTree.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\17. ChristmasTree\obj\Debug\_17.ChristmasTree.pdb

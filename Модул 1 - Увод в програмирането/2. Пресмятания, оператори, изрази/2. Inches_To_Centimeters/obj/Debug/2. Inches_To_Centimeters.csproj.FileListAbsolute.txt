@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\2. Inches_To_Centimeters\bin\Debug\_2.Inches_To_Centimeters.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\2. Inches_To_Centimeters\bin\Debug\_2.Inches_To_Centimeters.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\2. Inches_To_Centimeters\bin\Debug\_2.Inches_To_Centimeters.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\2. Inches_To_Centimeters\obj\Debug\2. Inches_To_Centimeters.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\2. Inches_To_Centimeters\obj\Debug\_2.Inches_To_Centimeters.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\2. Inches_To_Centimeters\obj\Debug\_2.Inches_To_Centimeters.pdb

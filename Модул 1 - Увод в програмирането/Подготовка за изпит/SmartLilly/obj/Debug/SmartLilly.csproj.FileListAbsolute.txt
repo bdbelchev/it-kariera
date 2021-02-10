@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\bin\Debug\SmartLilly.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\bin\Debug\SmartLilly.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\bin\Debug\SmartLilly.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\obj\Debug\SmartLilly.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\obj\Debug\SmartLilly.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\obj\Debug\SmartLilly.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SmartLilly\obj\Debug\SmartLilly.pdb

@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\bin\Debug\Firm.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\bin\Debug\Firm.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\bin\Debug\Firm.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\obj\Debug\Firm.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\obj\Debug\Firm.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\obj\Debug\Firm.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Firm\obj\Debug\Firm.pdb

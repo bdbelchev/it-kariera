@@ -1,6 +1,0 @@
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\1. Hello SoftUni\bin\Debug\_1.Hello_SoftUni.exe.config
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\1. Hello SoftUni\bin\Debug\_1.Hello_SoftUni.exe
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\1. Hello SoftUni\bin\Debug\_1.Hello_SoftUni.pdb
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\1. Hello SoftUni\obj\Debug\1. Hello SoftUni.csproj.CoreCompileInputs.cache
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\1. Hello SoftUni\obj\Debug\_1.Hello_SoftUni.exe
-C:\Users\bdbel\Desktop\ИТ Кариера 2020-21\!My Code\First-demo-solution\1. Hello SoftUni\obj\Debug\_1.Hello_SoftUni.pdb

@@ -1,6 +1,0 @@
-C:\Users\bdbel\source\repos\itkariera\First-demo-solution\3. Nums1To20\bin\Debug\_3.Nums1To20.exe.config
-C:\Users\bdbel\source\repos\itkariera\First-demo-solution\3. Nums1To20\bin\Debug\_3.Nums1To20.exe
-C:\Users\bdbel\source\repos\itkariera\First-demo-solution\3. Nums1To20\bin\Debug\_3.Nums1To20.pdb
-C:\Users\bdbel\source\repos\itkariera\First-demo-solution\3. Nums1To20\obj\Debug\3. Nums1To20.csproj.CoreCompileInputs.cache
-C:\Users\bdbel\source\repos\itkariera\First-demo-solution\3. Nums1To20\obj\Debug\_3.Nums1To20.exe
-C:\Users\bdbel\source\repos\itkariera\First-demo-solution\3. Nums1To20\obj\Debug\_3.Nums1To20.pdb

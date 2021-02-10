@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\5. Convert_C_F\bin\Debug\_5.Convert_C_F.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\5. Convert_C_F\bin\Debug\_5.Convert_C_F.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\5. Convert_C_F\bin\Debug\_5.Convert_C_F.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\5. Convert_C_F\obj\Debug\5. Convert_C_F.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\5. Convert_C_F\obj\Debug\_5.Convert_C_F.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\5. Convert_C_F\obj\Debug\_5.Convert_C_F.pdb

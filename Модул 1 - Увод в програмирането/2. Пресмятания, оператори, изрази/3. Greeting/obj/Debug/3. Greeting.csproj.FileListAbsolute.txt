@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\3. Greeting\bin\Debug\_3.Greeting.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\3. Greeting\bin\Debug\_3.Greeting.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\3. Greeting\bin\Debug\_3.Greeting.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\3. Greeting\obj\Debug\3. Greeting.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\3. Greeting\obj\Debug\_3.Greeting.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\2. Пресмятания, оператори, изрази\3. Greeting\obj\Debug\_3.Greeting.pdb

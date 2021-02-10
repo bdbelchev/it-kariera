@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\bin\Debug\Diamond.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\bin\Debug\Diamond.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\bin\Debug\Diamond.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\obj\Debug\Diamond.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\obj\Debug\Diamond.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Diamond\obj\Debug\Diamond.pdb

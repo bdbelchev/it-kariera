@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\bin\Debug\Garage.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\bin\Debug\Garage.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\bin\Debug\Garage.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\obj\Debug\Garage.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\obj\Debug\Garage.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\obj\Debug\Garage.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Garage\obj\Debug\Garage.csprojAssemblyReference.cache

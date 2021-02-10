@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarDiscount\obj\Debug\CarDiscount.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarDiscount\bin\Debug\CarDiscount.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarDiscount\bin\Debug\CarDiscount.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarDiscount\bin\Debug\CarDiscount.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarDiscount\obj\Debug\CarDiscount.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\CarDiscount\obj\Debug\CarDiscount.pdb

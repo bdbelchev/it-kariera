@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\23. NumbersPowerOf2\bin\Debug\_23.NumbersPowerOf2.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\23. NumbersPowerOf2\bin\Debug\_23.NumbersPowerOf2.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\23. NumbersPowerOf2\bin\Debug\_23.NumbersPowerOf2.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\23. NumbersPowerOf2\obj\Debug\23. NumbersPowerOf2.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\23. NumbersPowerOf2\obj\Debug\_23.NumbersPowerOf2.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\4. Повторения\23. NumbersPowerOf2\obj\Debug\_23.NumbersPowerOf2.pdb

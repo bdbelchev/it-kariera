@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\bin\Debug\PoolPipes.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\bin\Debug\PoolPipes.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\bin\Debug\PoolPipes.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\obj\Debug\PoolPipes.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\obj\Debug\PoolPipes.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\obj\Debug\PoolPipes.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\PoolPipes\obj\Debug\PoolPipes.csprojAssemblyReference.cache

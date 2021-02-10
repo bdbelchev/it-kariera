@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SpecialNumbers\bin\Debug\SpecialNumbers.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SpecialNumbers\obj\Debug\SpecialNumbers.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SpecialNumbers\obj\Debug\SpecialNumbers.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

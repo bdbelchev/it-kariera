@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\4. Max_Of_2\bin\Debug\_4.Max_Of_2.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\4. Max_Of_2\bin\Debug\_4.Max_Of_2.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\4. Max_Of_2\bin\Debug\_4.Max_Of_2.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\4. Max_Of_2\obj\Debug\4. Max_Of_2.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\4. Max_Of_2\obj\Debug\_4.Max_Of_2.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\3. Условни конструкции\4. Max_Of_2\obj\Debug\_4.Max_Of_2.pdb

@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\obj\Debug\OnTimeForExam.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\obj\Debug\OnTimeForExam.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\bin\Debug\OnTimeForExam.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\bin\Debug\OnTimeForExam.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\obj\Debug\OnTimeForExam.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\OnTimeForExam\obj\Debug\OnTimeForExam.pdb

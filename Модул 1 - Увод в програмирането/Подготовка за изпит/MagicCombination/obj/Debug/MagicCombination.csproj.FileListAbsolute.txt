@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\bin\Debug\MagicCombination.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\bin\Debug\MagicCombination.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\bin\Debug\MagicCombination.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\obj\Debug\MagicCombination.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\obj\Debug\MagicCombination.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\obj\Debug\MagicCombination.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MagicCombination\obj\Debug\MagicCombination.pdb

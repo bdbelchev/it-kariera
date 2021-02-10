@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\bin\Debug\MatchTickets.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\bin\Debug\MatchTickets.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\bin\Debug\MatchTickets.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\obj\Debug\MatchTickets.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\obj\Debug\MatchTickets.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\obj\Debug\MatchTickets.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\MatchTickets\obj\Debug\MatchTickets.pdb

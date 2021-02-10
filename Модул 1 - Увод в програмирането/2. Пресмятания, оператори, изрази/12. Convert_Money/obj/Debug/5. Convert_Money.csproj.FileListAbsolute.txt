@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\5. Convert_Money\bin\Debug\_5.Convert_Money.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\5. Convert_Money\bin\Debug\_5.Convert_Money.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\5. Convert_Money\bin\Debug\_5.Convert_Money.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\5. Convert_Money\obj\Debug\5. Convert_Money.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\5. Convert_Money\obj\Debug\_5.Convert_Money.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\5. Convert_Money\obj\Debug\_5.Convert_Money.pdb

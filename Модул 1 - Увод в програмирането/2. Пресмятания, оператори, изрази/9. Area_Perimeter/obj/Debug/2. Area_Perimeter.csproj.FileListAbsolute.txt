@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\2. Area_Perimeter\bin\Debug\_2.Area_Perimeter.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\2. Area_Perimeter\bin\Debug\_2.Area_Perimeter.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\2. Area_Perimeter\bin\Debug\_2.Area_Perimeter.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\2. Area_Perimeter\obj\Debug\2. Area_Perimeter.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\2. Area_Perimeter\obj\Debug\_2.Area_Perimeter.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Simple-Calculations\2. Area_Perimeter\obj\Debug\_2.Area_Perimeter.pdb

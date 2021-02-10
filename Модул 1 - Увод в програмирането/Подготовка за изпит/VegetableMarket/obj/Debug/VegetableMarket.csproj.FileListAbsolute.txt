@@ -1,6 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\VegetableMarket\bin\Debug\VegetableMarket.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\VegetableMarket\bin\Debug\VegetableMarket.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\VegetableMarket\bin\Debug\VegetableMarket.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\VegetableMarket\obj\Debug\VegetableMarket.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\VegetableMarket\obj\Debug\VegetableMarket.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\VegetableMarket\obj\Debug\VegetableMarket.pdb

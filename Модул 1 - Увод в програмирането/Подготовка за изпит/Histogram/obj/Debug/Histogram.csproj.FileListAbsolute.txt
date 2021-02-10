@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\bin\Debug\Histogram.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\bin\Debug\Histogram.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\bin\Debug\Histogram.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\obj\Debug\Histogram.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Histogram\obj\Debug\Histogram.pdb

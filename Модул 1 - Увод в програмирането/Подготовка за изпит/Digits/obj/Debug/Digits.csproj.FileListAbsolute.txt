@@ -1,7 +1,0 @@
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\bin\Debug\Digits.exe.config
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\bin\Debug\Digits.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\bin\Debug\Digits.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\obj\Debug\Digits.csproj.CoreCompileInputs.cache
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\obj\Debug\Digits.exe
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\obj\Debug\Digits.pdb
-D:\Boyan\OneDrive\ИТ Кариера 2020-21\Подготовка за изпит\Digits\obj\Debug\Digits.csprojAssemblyReference.cache
