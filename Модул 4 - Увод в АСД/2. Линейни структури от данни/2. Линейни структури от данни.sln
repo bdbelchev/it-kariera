@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. StaticListImplemetation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DynamicListImplementation", "03. DynamicListImplementation\03. DynamicListImplementation.csproj", "{3CC44942-E059-473C-9255-A4914FA20A0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. CircularQueue", "04. CircularQueue\04. CircularQueue.csproj", "{06930013-DBF0-4F5F-B519-9AAA5F959149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ArrayStack", "05. ArrayStack\05. ArrayStack.csproj", "{DDACFEF6-8D41-4AC9-94CC-9A67B71A204F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3CC44942-E059-473C-9255-A4914FA20A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CC44942-E059-473C-9255-A4914FA20A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CC44942-E059-473C-9255-A4914FA20A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06930013-DBF0-4F5F-B519-9AAA5F959149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06930013-DBF0-4F5F-B519-9AAA5F959149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06930013-DBF0-4F5F-B519-9AAA5F959149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06930013-DBF0-4F5F-B519-9AAA5F959149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDACFEF6-8D41-4AC9-94CC-9A67B71A204F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDACFEF6-8D41-4AC9-94CC-9A67B71A204F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDACFEF6-8D41-4AC9-94CC-9A67B71A204F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDACFEF6-8D41-4AC9-94CC-9A67B71A204F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
