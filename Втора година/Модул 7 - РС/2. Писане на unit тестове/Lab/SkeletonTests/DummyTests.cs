@@ -37,21 +37,15 @@ namespace SkeletonTests
         [Test]
         public void DeadDummyGivesExp()
         {
-            Dummy dummy = new Dummy(5, 10);
-            Hero hero = new Hero("Test");
+            Dummy dummy = new Dummy(0, 10);
 
-            hero.Attack(dummy);
-
-            Assert.AreEqual(10, hero.Experience, "Dead dummy does not give experience!");
+            Assert.AreEqual(10, dummy.GiveExperience(), "Dead dummy does not give experience!");
         }
 
         [Test]
         public void AliveDummyThrowsExceptionWhenGivingExp()
         {
             Dummy dummy = new Dummy(20, 20);
-            Hero hero = new Hero("Test");
-
-            hero.Attack(dummy);
 
             Assert.Throws<InvalidOperationException>((() => dummy.GiveExperience()), "Living dummy does not throw exception when attempting to give experience.");
         }
