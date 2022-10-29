@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseWeb", "BaseWeb\BaseWeb.csproj", "{3BD1EAAF-54BE-474C-8071-06379CBB6585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseWeb", "BaseWeb\BaseWeb.csproj", "{3BD1EAAF-54BE-474C-8071-06379CBB6585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonSquad", "BalloonSquad\BalloonSquad.csproj", "{642C5966-DC55-4F0A-AFDD-CBD038F0CB97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalloonSquad", "BalloonSquad\BalloonSquad.csproj", "{642C5966-DC55-4F0A-AFDD-CBD038F0CB97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfPalindromes", "HalfPalindromes\HalfPalindromes.csproj", "{A041D4F1-5B4A-4D1B-BC12-D568B7CF59CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HalfPalindromes", "HalfPalindromes\HalfPalindromes.csproj", "{A041D4F1-5B4A-4D1B-BC12-D568B7CF59CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostValuablePath", "MostValuablePath\MostValuablePath.csproj", "{709AF8C2-93AC-4756-8027-60D9DF4AB5F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MostValuablePath", "MostValuablePath\MostValuablePath.csproj", "{709AF8C2-93AC-4756-8027-60D9DF4AB5F3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. EightQueens", "02. EightQueens\02. EightQueens.csproj", "{B4207509-EB2C-407A-866B-E194BD07E962}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Pathfinding", "03. Pathfinding\03. Pathfinding.csproj", "{7D651DE2-8B4A-497F-922D-DABC679C618C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Combinatorics", "04. Combinatorics\04. Combinatorics.csproj", "{646538BF-1869-4577-B461-899D9982DAB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Combinatorics", "04. Combinatorics\04. Combinatorics.csproj", "{646538BF-1869-4577-B461-899D9982DAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSpanningTree", "MinimumSpanningTree\MinimumSpanningTree.csproj", "{6522209D-BD23-4BE7-9749-4353ED0430D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +41,6 @@ Global
 		{709AF8C2-93AC-4756-8027-60D9DF4AB5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{709AF8C2-93AC-4756-8027-60D9DF4AB5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{709AF8C2-93AC-4756-8027-60D9DF4AB5F3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC038767-1950-42D9-B6DE-D7C7A9601E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC038767-1950-42D9-B6DE-D7C7A9601E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC038767-1950-42D9-B6DE-D7C7A9601E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC038767-1950-42D9-B6DE-D7C7A9601E14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4207509-EB2C-407A-866B-E194BD07E962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4207509-EB2C-407A-866B-E194BD07E962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4207509-EB2C-407A-866B-E194BD07E962}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -55,6 +53,10 @@ Global
 		{646538BF-1869-4577-B461-899D9982DAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646538BF-1869-4577-B461-899D9982DAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646538BF-1869-4577-B461-899D9982DAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6522209D-BD23-4BE7-9749-4353ED0430D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6522209D-BD23-4BE7-9749-4353ED0430D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6522209D-BD23-4BE7-9749-4353ED0430D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6522209D-BD23-4BE7-9749-4353ED0430D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
